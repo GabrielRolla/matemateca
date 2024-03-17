@@ -1,2 +1,1 @@
-# matemateca
-# matemateca
+# biblioteca de funções matemáticas
